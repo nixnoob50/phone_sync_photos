@@ -30,3 +30,5 @@ rmdir $HOME/tmp_phone
 ```
 
 To unmount and remove the tmp_phone dir
+
+Enjoy!
